@@ -1,0 +1,16 @@
+{
+  "name": "helloWorldNode",
+  "version": "1.0.0",
+  "description": "Hello World Sample",
+  "main": "web.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Fameeda",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.11.0",
+    "express": "^4.11.1",
+    "method-override": "^2.3.1"
+  }
+}
